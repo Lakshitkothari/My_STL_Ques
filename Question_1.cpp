@@ -1,4 +1,4 @@
-Question 1:- You are provided with a vector of  integers. Then, you are given  queries.
+/* Question 1:- You are provided with a vector of  integers. Then, you are given  queries.
 For the first query, you are provided with  integer, which denotes a position in
 the vector. The value at this position in the vector needs to be erased. The
 next query consists of  integers denoting a range of the positions in the
@@ -50,7 +50,7 @@ the 2nd and 3rd elements should be removed. Then 6 and 2 in the modified vector
 are removed and we finally get {1 8 9} */
 
 
-CODE START FROM HERE 
+//CODE START FROM HERE 
 
 
 #include <algorithm>
