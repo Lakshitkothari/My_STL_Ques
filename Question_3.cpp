@@ -52,10 +52,10 @@ Sample Output
 
 Yes
 No
-No*\
+No *\
 
 
-//CODE STARTS FROM HERE
+/*CODE STARTS FROM HERE*\
 
 #include <cmath>
 #include <cstdio>
